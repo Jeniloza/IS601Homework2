@@ -1,14 +1,14 @@
 #### General Information
-1. Names
+1. Names <br>
 ..* Michael Payne and Jenil Oza
 #### 1. Concept of the website:
 The purpose of this website will be to create a website that details the history of the Intnernet, and how it became to be what we know it today.
 
 #### 2. Website General Information
-.. 1. Description
-.. 2. Keywords
-.. 3. Website Title
-....* History of the Internet
+..1. Description <br>
+.. 2. Keywords <br>
+.. 3. Website Title <br>
+....* History of the Internet <br>
 .. 4. Page title
 
 #### 3. Website Main Menu
