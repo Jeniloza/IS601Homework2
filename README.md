@@ -21,7 +21,7 @@ The purpose of this website will be to create a website that details the history
 3. Description : <br>  <p> The Internet is a vast network that connects computers all over the world. Through the Internet, people can share information and communicate from anywhere with an Internet connection.</p> <br/>  ![alt text](http://www2014.kr/pics/history_www-1-300x192.jpg "Logo Title Text 1") <br/>
 4. Keywords :  <br> Internet <br/> WWW <br/>HTTP <br/>TCP/IP <br/>Email <br/>HTML <br/>DNS <br/>IP Address <br/>Packets <br/>Wires & Cables
 5. Page Layout: Z Layout (What layout will you use) <br> 
-6. Page Content: [History of the Internet Markdown document]
+6. Page Content: [History of the Internet Markdown document](https://github.com/mcp48/IS601Homework2/blob/main/HistoryFile.md)
 #### 5. Sidebar content (example: secondary information may be about people, places, companies, or other events this will appear on the side.) : <br/>
 1. DNS 
 2. Email 
