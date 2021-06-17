@@ -6,4 +6,4 @@ ARPANET adopted TCP/IP on January 1, 1983, and from there researchers began to a
 
 The Internet is a global network of computers each computer connected to the Internet must have a unique address. Internet addresses are in the form nnn.nnn.nnn.nnn where nnn must be a number from 0 - 255. This address is known as an IP address. (IP stands for Internet Protocol; more on this later.
 
-![alt text](https://miro.medium.com/max/3000/0*HqgKUgDYreRRxn7T "Logo Title Text 2")
+![Image of how the Internet Works](https://miro.medium.com/max/3000/0*HqgKUgDYreRRxn7T "How the Internet Works")
