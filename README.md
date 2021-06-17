@@ -60,9 +60,9 @@ The purpose of this website will be to create a website that details the history
 3. Description : History about the dot-com bubble and e-commerce.
 4. Keywords :  <br> dot-com Bubble <br> E-commerce <br> People Power<br>
 5. Page Layout: Z Layout <br> 
-6. Page Content: Link to another markdown document with the page content :  [dot-com bubble, E-commerce, and People Power](https://github.com/mcp48/IS601Homework2/blob/main/dot-comAndE-Commerce.md)
+6. Page Content: [dot-com bubble, E-commerce, and People Power](https://github.com/mcp48/IS601Homework2/blob/main/dot-comAndE-Commerce.md)
 
 #### 10. Footer Menu
-1. History of Internet
-2. Search Engines, Web Browsers & Web Servers
-3. dot-com bubble, E-commerce & People Power
+1. [History of Internet](https://github.com/mcp48/IS601Homework2/blob/main/HistoryFile.md)
+2. [Search Engines, Web Browsers & Web Servers](https://github.com/mcp48/IS601Homework2/blob/main/SearchEngine.md)
+3. [dot-com bubble, E-commerce & People Power](https://github.com/mcp48/IS601Homework2/blob/main/dot-comAndE-Commerce.md)
