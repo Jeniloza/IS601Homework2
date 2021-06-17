@@ -1,0 +1,2 @@
+#### About Us
+<p> This website explores the history of the Internet, and how it became to be known as the sensation that it is today.  This was done as part of a school project at the New Jersey Institute of Technology in Newark, New Jersey.  The website was created by Jenil Oza and Michael Payne, under the direction of Professor Keith Williams.  For more information about Professor Keith Williams, please see the [New Jersey Institute of Technology website](https://www.njit.edu).
