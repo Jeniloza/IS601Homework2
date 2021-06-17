@@ -50,11 +50,9 @@ The purpose of this website will be to create a website that details the history
 1. Menu Link : Search engines, Web browsers & Web servers <br>
 2. Page Title : Search engines, Web browsers & Web servers <br>
 3. Description: Information about the history of search engines, web browsers, and web servers.
-
-<p> Browser wars: The World Wide Web gained rapid acceptance with the creation of a Web browser called Mosaic, which was developed in the United States by Marc Andreessen and others at the National Center for Supercomputing Applications at the University of Illinois and was released in September 1993. </p>
 4. Keywords :  <br>  Search Engine <br> Web browsers <br> Web servers<br>
 5. Page Layout: Z Layout <br> 
-6. Page Content: (https://github.com/mcp48/IS601Homework2/blob/main/SearchEngines.md "Search engines, web browsers, and web servers Markdown document")
+6. Page Content: (https://github.com/mcp48/IS601Homework2/blob/main/SearchEngines.md)
 
 #### 9.  dot-com Bubble, E-commerce & People Power
 1. Menu Link : dot-com Bubble, E-commerce & People Power (what people see on the website) <br>
