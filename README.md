@@ -4,7 +4,7 @@
 The purpose of this website will be to create a website that details the history of the Internet, and how it became to be what we know it today.
 
 #### 2. Website General Information
-1. Description : <br> 
+1. Description : History of the Internet and how it became the worldwide sensation it is today.<br> 
 2. Keywords : <br> Internet <br> WWW <br/>HTTP <br/>TCP/IP <br>Email <br>HTML <br>DNS <br>IP Address <br/>Packets <br>Wires & Cables <br> Search Engine <br> Web browsers <br> Web servers <br> dot-com Bubble <br> E-commerce <br> People Power
 3. Website Title : <br> History of the Internet <br>
 4. Page title : Invention of the Internet 
@@ -22,6 +22,7 @@ The purpose of this website will be to create a website that details the history
 4. Keywords :  <br> Internet <br> WWW <br/>HTTP <br>TCP/IP <br>Email <br>HTML <br>DNS <br>IP Address <br>Packets <br>Wires & Cables
 5. Page Layout: Z Layout<br> 
 6. Page Content: [History of the Internet Markdown document](https://github.com/mcp48/IS601Homework2/blob/main/HistoryFile.md)
+
 #### 5. Sidebar content (example: secondary information may be about people, places, companies, or other events this will appear on the side.) : <br/>
 1. DNS 
 2. Email 
@@ -31,6 +32,7 @@ The purpose of this website will be to create a website that details the history
 6. IP Address 
 7. Packets 
 8. Wires, Cables & Wi-Fi
+
 #### 6. Sidebar
 1. Sidebar text : <br> 1. DNS : Paul Mockapetris expanded the Internet beyond its academic origins by inventing the Domain Name System (DNS) in 1983. DNS translates domain names to IP addresses so browsers can load Internet resources. Each device connected to the Internet has a unique IP address which other machines use to find the device. 
 2. Email : A widely accepted story of email’s origins involves a computer engineer named Ray Tomlinson who was working on an early version of the internet in 1971.
@@ -48,7 +50,9 @@ The purpose of this website will be to create a website that details the history
 1. Menu Link : Search engines, Web browsers & Web servers <br>
 2. Page Title : Search engines, Web browsers & Web servers <br>
 3. Description: Information about the history of search engines, web browsers, and web servers.
-<p>Search Engine : The first internet search engines predate the debut of the Web in December 1990: Who is user search dates back to 1982, and the Knowbot Information Service multi-network user search was first implemented in 1989. The first well documented search engine that searched content files, namely FTP files, was Archie, which debuted on 10 September 1990. </p><p> Web Browsers : A browser is software that accesses and displays pages and files on the web. Browsers require a connection to the Internet (e.g., through a cable modem, a direct Ethernet connection, or Wi-Fi). Tim Berners-Lee is credited with developing, in 1990, both the first web server, and the first web browser, called Worldwide Web (no spaces) and later renamed Nexus. </p><p> Browser wars: The World Wide Web gained rapid acceptance with the creation of a Web browser called Mosaic, which was developed in the United States by Marc Andreessen and others at the National Center for Supercomputing Applications at the University of Illinois and was released in September 1993. </p>
+<p>Search Engine : The first internet search engines predate the debut of the Web in December 1990: Who is user search dates back to 1982, and the Knowbot Information Service multi-network user search was first implemented in 1989. The first well documented search engine that searched content files, namely FTP files, was Archie, which debuted on 10 September 1990.</p>
+<p> Web Browsers : A browser is software that accesses and displays pages and files on the web. Browsers require a connection to the Internet (e.g., through a cable modem, a direct Ethernet connection, or Wi-Fi). Tim Berners-Lee is credited with developing, in 1990, both the first web server, and the first web browser, called Worldwide Web (no spaces) and later renamed Nexus. </p>
+<p> Browser wars: The World Wide Web gained rapid acceptance with the creation of a Web browser called Mosaic, which was developed in the United States by Marc Andreessen and others at the National Center for Supercomputing Applications at the University of Illinois and was released in September 1993. </p>
 4. Keywords :  <br>  Search Engine <br> Web browsers <br> Web servers<br>
 5. Page Layout: Z Layout <br> 
 6. Page Content: Link to another markdown document with the page content : <br>  <p> Search Engine : The first internet search engines predate the debut of the Web in December 1990: Who is user search dates back to 1982, and the Knowbot Information Service multi-network user search was first implemented in 1989. The first well documented search engine that searched content files, namely FTP files, was Archie, which debuted on 10 September 1990. </p>
@@ -71,6 +75,7 @@ Shawn Fanning, the founder, gave the code to some of his friends, telling them n
 <p> On January 10, 2000, America Online, led by Steve Case and Ted Leonsis, announced a merger with Time Warner, led by Gerald M. Levin. The merger was the largest to date and was questioned by many analysts. On January 30, 2000, almost 20 percent (12 ads) of the 61 ads for Super Bowl XXXIV were purchased by dot-coms (however this estimate ranges from 12 to 19 companies depending on the source and the context in which the term "dot-com" company implies). At that time, the cost for a 30-second commercial cost between $1.9 million and $2.2 million. On March 15, 2000, Yahoo! and eBay ended merger talks and the Nasdaq fell 2.6%, but the S&P 500 rose 2.4% as investors shifted from strong performing technology stocks to poor performing established stocks.</p>
 <p> People Power : The code for Napster, a music sharing service, was finished in June 1999.  Shawn Fanning, the founder, gave the code to some of his friends, telling them not to pass it out, but they did o	Within a week, about 10,000 people had downloaded Napster.</p>
 <p> By October 1999, Napster was taking up about 75 – 80% of the available bandwidth of US universities, and had more than 1 million downloads, making it the fastest spreading software Howard King and Peter Paterno, LA Entertainment lawyers, set out to warn music artists that Napster posed a clear and present danger to their careers On May 3, 2000, a member of the band Metallica arrived at Napster headquarters to ask that 300,000 users with Metallica songs to be banned from Napster Hillary Rosen and the RIAA filed a lawsuit for copyright, forcing Napster to be shut down in July 2001, This led to Steve Jobs, founder and CEO of Apple, to come out with iTunes, where users could download songs for $0.99, with strict copy protection, Viacom launched a $1 billion suit against YouTube for copyright issues, Google acquired YouTube at the end of 2006, so shutting down YouTube is not as easy as shutting down Napster, At this point, a new era of the Internet was being born, where users create their own content, and share and sell it,	Social networking was born in the wake of the dot com crash, Web 2.0 is about setting communication free, and users can share their thoughts with other users; in a sense, the web belongs to the people </p>
+
 #### 10. Footer Menu
 1. History of Internet
 2. Search Engines, Web Browsers & Web Servers
