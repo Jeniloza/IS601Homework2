@@ -42,7 +42,7 @@ The purpose of this website will be to create a website that details the history
 8. Wires, Cables & Wi-Fi : Bits of information are sent by electricity, light, and radio waves, Bandwidth is the maximum transmission capacity of a device, measured in bits per second Latency is the time it takes for one bit to travel from the sender to the receiver	Fiber-optic cable is a thread of glass that reflects light, and signal does not degrade over long distances	Wireless typically uses radio signal to send bits	Sending device translates binary into different radio frequency waves; the receiver does the reverse, and translates the frequency waves back into binary.
 
 #### 7. Page image
-![History of the Internet image](https://blog.paessler.com/history-of-the-internet-part-1 "History of the Internet")
+![History of the Internet image](![image](https://user-images.githubusercontent.com/61996761/122456110-2abeb380-cf7b-11eb-8437-45900ea10ee4.png) "History of the Internet")
 
 #### 8. Search engines, Web browsers & Web servers
 1. Menu Link : Search engines, Web browsers & Web servers <br>
