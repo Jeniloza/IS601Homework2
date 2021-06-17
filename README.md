@@ -65,4 +65,4 @@ The purpose of this website will be to create a website that details the history
 #### 10. Footer Menu
 1. [History of Internet](https://github.com/mcp48/IS601Homework2/blob/main/HistoryFile.md)
 2. [Search Engines, Web Browsers & Web Servers](https://github.com/mcp48/IS601Homework2/blob/main/SearchEngine.md)
-3. dot-com bubble, E-commerce & People Power
+3. [dot-com bubble, E-commerce & People Power](https://github.com/mcp48/IS601Homework2/blob/main/dot-comAndE-Commerce.md)
