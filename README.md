@@ -1,7 +1,7 @@
 #### General Information
 1. Names <br> <p> Michael Payne and Jenil Oza </p>
 #### 1. Concept of the website:
-The purpose of this website will be to create a website that details the history of the Intnernet, and how it became to be what we know it today.
+The purpose of this website will be to create a website that details the history of the Internet, and how it became to be what we know it today.
 
 #### 2. Website General Information
 1. Description : <br> 
@@ -42,7 +42,7 @@ The purpose of this website will be to create a website that details the history
 8. Wires, Cables & Wi-Fi : Bits of information are sent by electricity, light, and radio waves, Bandwidth is the maximum transmission capacity of a device, measured in bits per second Latency is the time it takes for one bit to travel from the sender to the receiver	Fiber-optic cable is a thread of glass that reflects light, and signal does not degrade over long distances	Wireless typically uses radio signal to send bits	Sending device translates binary into different radio frequency waves; the receiver does the reverse, and translates the frequency waves back into binary.
 
 #### 7. Page image
-![History of the Internet image](https://84048795-a-62cb3a1a-s-sites.googlegroups.com/site/thehistoryoftheinternetmaeve/home/Internet%20photo.jpg?attachauth=ANoY7cog7GpVGrn5xIIBrmT_ZSdBHZVSNDYRKqb1EsOEmcBABRJDU2OrsgZwiHHsHOkCNCpVXlyeNruRRqKaluBaM9JRAQkdiu3qpnlN5VDZxSv1u1v9ylsN3_yiHbRcNr5p11tQiWPxTxlvMzmAsH-wM_TqTDiaPWzj-1D1F8vSjky_NEU5u7_HUgCGzdoIIWYmuFQXa3mHCDtQw5oLVJU8tjhyJe8jNw0BcNJ5Xk_8phbw16Fd9JddV9nv5bWogbm7IA1jp1YA&attredirects=0 "History of the Internet")
+![History of the Internet image](https://sites.google.com/site/thehistoryoftheinternetmaeve/home/Internet%20photo.jpg?attredirects=0 "History of the Internet")
 
 #### 8. Search engines, Web browsers & Web servers
 1. Menu Link : Search engines, Web browsers & Web servers <br>
