@@ -52,7 +52,7 @@ The purpose of this website will be to create a website that details the history
 3. Description: Information about the history of search engines, web browsers, and web servers.
 4. Keywords :  <br>  Search Engine <br> Web browsers <br> Web servers<br>
 5. Page Layout: Z Layout <br> 
-6. Page Content: (https://github.com/mcp48/IS601Homework2/blob/main/SearchEngines.md)
+6. Page Content: [Search engines, Web browsers, and Web servers](https://github.com/mcp48/IS601Homework2/blob/Edit-SearchEngine/SearchEngine.md)
 
 #### 9.  dot-com Bubble, E-commerce & People Power
 1. Menu Link : dot-com Bubble, E-commerce & People Power (what people see on the website) <br>
