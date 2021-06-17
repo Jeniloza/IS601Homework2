@@ -73,5 +73,5 @@ The purpose of this website will be to create a website that details the history
 3. Description: Information abut Michael and Jenil, and other information as required in the assignment.
 4. Keywords: About us, Michael Payne, Jenil Oza
 5. Page Layout: Z Layout
-6. Page Content: Link to another markdown document with the page content
+6. Page Content: [About Us](https://github.com/mcp48/IS601Homework2/blob/main/AboutUs.md)
 
