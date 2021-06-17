@@ -50,11 +50,11 @@ The purpose of this website will be to create a website that details the history
 1. Menu Link : Search engines, Web browsers & Web servers <br>
 2. Page Title : Search engines, Web browsers & Web servers <br>
 3. Description: Information about the history of search engines, web browsers, and web servers.
-<p> Web Browsers : A browser is software that accesses and displays pages and files on the web. Browsers require a connection to the Internet (e.g., through a cable modem, a direct Ethernet connection, or Wi-Fi). Tim Berners-Lee is credited with developing, in 1990, both the first web server, and the first web browser, called Worldwide Web (no spaces) and later renamed Nexus. </p>
+
 <p> Browser wars: The World Wide Web gained rapid acceptance with the creation of a Web browser called Mosaic, which was developed in the United States by Marc Andreessen and others at the National Center for Supercomputing Applications at the University of Illinois and was released in September 1993. </p>
 4. Keywords :  <br>  Search Engine <br> Web browsers <br> Web servers<br>
 5. Page Layout: Z Layout <br> 
-6. Page Content: [Search engines web browsers and web servers Markdown document](https://github.com/mcp48/IS601Homework2/blob/main/SearchEngines.md)
+6. Page Content: (https://github.com/mcp48/IS601Homework2/blob/main/SearchEngines.md "Search engines, web browsers, and web servers Markdown document")
 
 #### 9.  dot-com Bubble, E-commerce & People Power
 1. Menu Link : dot-com Bubble, E-commerce & People Power (what people see on the website) <br>
