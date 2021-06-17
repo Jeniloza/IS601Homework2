@@ -66,3 +66,12 @@ The purpose of this website will be to create a website that details the history
 1. [History of Internet](https://github.com/mcp48/IS601Homework2/blob/main/HistoryFile.md)
 2. [Search Engines, Web Browsers & Web Servers](https://github.com/mcp48/IS601Homework2/blob/main/SearchEngine.md)
 3. [dot-com bubble, E-commerce & People Power](https://github.com/mcp48/IS601Homework2/blob/main/dot-comAndE-Commerce.md)
+
+#### 11. About Page 
+1. Menu Link: About us
+2. Page Title About us
+3. Description: Information abut Michael and Jenil, and other information as required in the assignment.
+4. Keywords: About us, Michael Payne, Jenil Oza
+5. Page Layout: Z Layout
+6. Page Content: [About Us](https://github.com/mcp48/IS601Homework2/blob/main/AboutUs.md)
+
